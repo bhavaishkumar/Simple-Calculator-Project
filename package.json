@@ -1,9 +1,10 @@
 {
-  "name": "simple-calculator",
-  "version": "1.0.0",
+  "name": "bhavaishkumar-simple-calculator",
+  "version": "1.0.2",
   "description": "A simple calculator which performs addition, subtraction, division and multiplication using typescript, node.js and inquirer.",
   "main": "index.js",
   "type": "module",
+  "bin" : "index.js"
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
